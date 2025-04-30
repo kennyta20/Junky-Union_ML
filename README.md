@@ -1,1 +1,2 @@
 # Junky-Union_ML
+Film Junky Union, a new, cutting-edge community for classic film fans, is developing a system for filtering and categorizing movie reviews. The goal is to train a model to automatically detect negative reviews. To achieve this, you will use a dataset of IMDB movie reviews with polarity captions to build a model to classify positive and negative reviews. This model must achieve an F1 value of at least 0.85.
